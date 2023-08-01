@@ -11,7 +11,7 @@ Algunas muy ingeniosas para capturar mis datos y tecnicas que paginas como virus
 
 Tiene todo del codigo ofuscado y ni idea que hace , taponco lo prove , pero busca robar identidad del  usurio 
 
-# Archivo #AWBS-UPS34jlfp15_pdf.shtml
+# Archivo #AWBS-UPS34_pdf.shtml
 
 Es un todo en uno tiene HTML, CSS y JavaScript imitando la sesion de correo de Outlook que adicionalmente copia el mail de la victima en el campo de email y pide la contraseña dos vecesn asumo que para ratificar y luego de los 2 intentos "fallidos" resetea el navegador y abre la pagina oficial de Outlook 
 
